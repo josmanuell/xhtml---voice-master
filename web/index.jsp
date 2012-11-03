@@ -28,7 +28,7 @@
    <div align="right">
         <s:form action="Login" method="POST">
             <h2>Login</h2>
-            <s:textfield name="Matricula" label="User" />
+            <s:textfield name="Matricula" label="Userseres" />
             <s:password name="Password" label="Password" />
             <s:submit  value="Entrar" />
         </s:form>
